@@ -3,3 +3,5 @@ A machine learning project which I plan on doing, this will include SQL, C++ and
 
 
 Butterfly effect??
+
+Deep Belief Net??
