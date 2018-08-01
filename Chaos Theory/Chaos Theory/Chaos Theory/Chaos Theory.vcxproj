@@ -115,10 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Acquaintance.cpp" />
+    <ClCompile Include="src\Area.cpp" />
     <ClCompile Include="src\ChaosTheory.cpp" />
     <ClCompile Include="src\Subject.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Acquaintance.h" />
+    <ClInclude Include="src\Area.h" />
     <ClInclude Include="src\Subject.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
