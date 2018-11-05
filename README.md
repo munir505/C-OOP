@@ -1,4 +1,4 @@
-# Chaos Theory
-Simulation of chaos theory / butterfly effect
+# C++ OOP
+C++ OOP
 
 
